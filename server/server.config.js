@@ -8,7 +8,7 @@ const BAREURL = 'https://hideip.ivwv.site'
 */
 self.__uv$config = {
     
-    prefix: `/aHR0cHM6Ly9naXRodWIuY29tL2hpZGVpcG5ldHdvcms=/`,
+    prefix: `/`,
     
     //prefix: `/server/`,
     bare: `${BAREURL}/bareServer/`,
