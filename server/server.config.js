@@ -1,7 +1,7 @@
 /**
  * Just replace BAREUR
  */ 
-const BAREURL = 'https://hideip.ivwv.site'
+const BAREURL = 'https://hide.ivwv.site'
 
 /**
  * Non-developers, please modify without authorization, 98% report errors!
