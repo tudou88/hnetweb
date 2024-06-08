@@ -1,7 +1,7 @@
 /**
  * Just replace BAREUR
  */ 
-const BAREURL = 'https://hide.ivwv.site'
+const BAREURL = 'https://hg.785842820.workers.dev'
 
 /**
  * Non-developers, please modify without authorization, 98% report errors!
